@@ -1,2 +1,5 @@
-# pharmacy-management-system
-Medicine store or pharmacy management system will let a seller find out the medicine in his store and show the exact location where the medicine is kept.
+# Pharmacy Management System
+Pharmacy Management System - A PHP project for pharmacy store to manage and find the products/medicines.
+
+#Purpose
+Project to lear PHP and Database throughout my Database course.
